@@ -1,0 +1,6 @@
+web services solucoes que se comunicam independente de linguagem, software e hardware
+
+utilizam linguagem de marcação, inicialemte comecou com XML
+
+
+permite integracao entre aplicações via troca de mensagens entre o servidor ou web ser
