@@ -1,6 +1,14 @@
 web services solucoes que se comunicam independente de linguagem, software e hardware
 
-utilizam linguagem de marcaÁ„o, inicialemte comecou com XML
+utilizam linguagem de marca√ß√£o, inicialemte comecou com XML
+
+permite integracao entre aplica√ß√µes via troca de mensagens (xml, jason) entre o servidor ou web ser
+
+Expoe uma uri para que a aplicacao consiga acesso e liberar os dados para o webservice
+
+Toda comunicacao e feita pelo protocolo http: aplicaccao y manda uma requisicao para o web service, onde o mesmo ira interpretar, acessar o banco de dados da aplicacao x
+e devolver para o y...rapide na integracao
+
+vantagens: linguagem comum, facilita integracao, melhora seguran√ßa vc trata o que vai devolver de dados ou n√£o
 
 
-permite integracao entre aplicaÁıes via troca de mensagens entre o servidor ou web ser
