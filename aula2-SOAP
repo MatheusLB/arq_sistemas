@@ -1,5 +1,9 @@
 SOap -  Facilita a integracao entre aplicações, independente de linguagem
-Roda em outros protocolos, alem do http, como smtp
+Roda em outros protocolos, alem do http, como 
+Estrutura
+SOap envelope: encapsula toda mensagem soap
+Soap header: informacao de atributos e metadados(ip,dns,toquem, credenciais)
+Soap body
 
 
 XML
