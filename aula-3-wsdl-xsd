@@ -1,10 +1,13 @@
-wsdl - usado para descrever web serviçi como um contrato doservico serviço, que é feita em xml: serviço, especificações de acesso, operacoes e métodos
+wsdl - usado para descrever web serviçi como um contrato doservico serviço, um padrão, que é feita em xml: serviço, especificações de acesso, operacoes e métodos
 
 XSD - xml schema definition - esquema no formato xml, para definir a estrutura de dados que sera validada no xml, atributos obrigatórios, 
 
 uri - o serviço pode estar em .wsdl ou ?wsdl
 
-estrutura wsdl
-<message> - metodos
-<atributos
 
+estrutura wsdl
+<message> - metodos(method
+<part> - atributos (bstrParam
+
+ 
+ 
