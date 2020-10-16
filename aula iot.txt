@@ -1,0 +1,26 @@
+internet das coisas
+
+embutir sensores em objetos do dia a dia
+
+coletar dados dos sensores
+
+analisar dados
+
+3 fases:
+things: coisas onde sao colocados sensores
+
+cloud: nuvem para processar os dados
+
+intelligence: utlizar para otimizar processaos, vantagem competitiva
+
+smart building: capacidade de coletar dados de componente para serem usados de forma inteligencia
+
+smart home: diversos sensores pela casa como por exemplo, sensor de temperatura que ao verificar o portao abrindo, por ligar o ar condicionado 
+
+wearables: componente vestiveis: relógio
+
+agriculture: sensores que medem a humidade do solo
+
+
+
+

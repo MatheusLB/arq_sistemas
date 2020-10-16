@@ -1,0 +1,27 @@
+gerenciamento de erros:
+
+onde e mais complexo: micro
+processos assíncronos (microsserviços#2)
+pipeline:  de todos os passos o que pode ser complexo, deu erro anteriormente tem que refazer(rolback)
+
+solucao: filas de re-tentativas
+
+
+microserviços#2: message broker: desacoplamento: pode comprometer todos os serviços se causar falha
+
+microsserviços#3pipeine: request entra no proxy e passa pelo pipelane que se comunicara com o serviço, menor código
+evita bug, trabalha com rollbacks
+
+Acoplamento: Lida com a dependência ou não de uma parte em relação a outra, portanto o modelo de microsserviços possui menor acoplamento se comparado ao monolito.
+
+
+O gerenciador de pipeline recebe a requisição do Proxy HTTP e conforme a etapa da requisição envia para um serviço específico e independente.
+
+
+monolito: Um navegador WEB faz uma requisição ao Proxy HTTP na qual chega até uma determinada instância da aplicação para retornar determinado dado.
+
+
+massage broker:possível inserir um intermediário entre as conexões realizadas entre os serviços, permitindo maior segurança e retorno de condições indevidas do sistema. 
+Tal mecanismo intermediário é denominado:
+
+Microsserviços desenvolvem sistemas mais flexíveis, escaláveis e com fácil manutenção comparado aos sistemas tradicionais.

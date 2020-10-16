@@ -1,0 +1,29 @@
+Rest - transferencia do objeto em determinado estado
+
+Estilo de arquitetura web
+
+utiliza dos metodos http para definir operacao efetuada
+
+trabalha com os formatos XML JSON - linguagens de marcação
+
+Estrutura
+ 
+        req http(get,post,put,delete)
+cliente   <->   servidor
+           retorna um codigo de operacao(sucesso ou falha)
+	   retorna mensagem(texto,json,xml)
+
+
+api - conjunto de rotinas e padroes documentadas 
+da aplicacao web atraves de serviços
+
+get: solicita representacao de um recurso(busca informacao estado atual)
+post: solicita a criacao de um recurso(passa um informacao para criar em base dados)
+delete: solicita exclusao de recuros
+put - solicita atualizacao de recurso
+     
+
+principais metodos http
+
+JSON mais utilizado em serviços web junto com xml
+
