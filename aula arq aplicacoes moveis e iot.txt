@@ -1,0 +1,41 @@
+out of the box: produtos que não expoem seu cicuitos ou infraestrutura,  gerando uma soluçao
+mais compacta e abstrata.
+
+
+
+home assistent: assistentes virtual com capacidade de decifrar o contato com humanos
+
+atributos escolha: 
+baixo consumo de energia
+
+disponibilidade de dados limitada
+
+
+resiliencia: capacidade de lidar com a falta de recursos
+
+Segurança: camadas a se levar em preocupação(firewall, antiviraus, etc)
+
+Cusmotização: adpar o pruduto com o ambiente considerando o hardware e com 
+baixo custo
+
+Arduino: plataforma de prototipagem com entradas/saidas, trabalha com programas em c/c++
+
+
+Embarcados
+
+MCU: microcontrolador de chip único, sitema operacional real time(sistema com maior comunicação com hardware em tempo real)
+
+
+raspberi pi: computador completo, ou seja não so um circuito com entrada e saida, aceita linguagem de alto nivel
+
+
+MQTT: protocolo de IOT, mensagem assincrona
+
+Modelo publish/subscride: modelo de comunicação do mqtt
+
+mqtt broker:  midleware de comunicação, menor desaclopamentos
+
+
+
+
+
